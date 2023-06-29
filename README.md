@@ -31,3 +31,6 @@
 	python EmailURLExtractor.py
 ```
 4. Analyze the results: Review the list of FQDNs obtained from the email logs. Use this information for further analysis, investigation, or any other relevant tasks.
+
+## Contributing
+Contributions to EmailURLExtractor are welcome! If you have suggestions, bug reports, or want to add new features, please open an issue or submit a pull request.
