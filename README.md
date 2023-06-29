@@ -13,10 +13,12 @@
 
 1. Clone the repository:
 
-   ```bash
+				 ```bash
    git clone [https://github.com/HassanNasrMohamed/EmailURLExtractor.git]
+						```
 
 2.Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
+					```bash
+					pip install -r requirements.txt
+						```
