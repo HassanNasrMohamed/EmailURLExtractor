@@ -14,13 +14,13 @@
 1. Clone the repository:
 
 ```
-   git clone [https://github.com/HassanNasrMohamed/EmailURLExtractor.git]
+	git clone [https://github.com/HassanNasrMohamed/EmailURLExtractor.git]
 ```
 
 2. Install the required dependencies:
 
 ```
-		pip install -r requirements.txt
+	pip install -r requirements.txt
 ```
 ## Usage
 
@@ -28,6 +28,6 @@
 2. Modify the script (optional): Customize the script according to your needs. You can add additional processing steps, implement URL filtering, or incorporate further analysis based on your specific requirements.
 3. Run the script: Execute the script to extract URLs from email logs and retrieve the associated FQDNs.
 ```
-	python email_url_extractor.py
+	python EmailURLExtractor.py
 ```
 4. Analyze the results: Review the list of FQDNs obtained from the email logs. Use this information for further analysis, investigation, or any other relevant tasks.
